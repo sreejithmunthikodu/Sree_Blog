@@ -5,7 +5,7 @@ tags:
 - Mean
 - Variance
 - Measures of central tendency
-desc: I try to pen down my two weeks of life in Vancouver
+desc: https://www.linkedin.com/pulse/basic-descriptive-statistics-sreejith-munthikodu/?trackingId=H2YaBGzbQZ7cHPZy4pEBhg%3D%3D
 layout: post
 ---
 Levels of measurements of variable

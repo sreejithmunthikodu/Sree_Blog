@@ -2,8 +2,7 @@
 title: Minimal Text
 baseurl: "/Sree_Blog"
 desc: A minimal blog for off-topic blog entries.
-about: 
-Sreejith Munthikodu
+about: Sreejith Munthikodu
 
 image: https://avatars2.githubusercontent.com/u/37257063?s=400&u=e7eb2eec76ba81bbb871afacd868998b9bac7c54&v=4
 excerpt_separator: "<!-- more -->"

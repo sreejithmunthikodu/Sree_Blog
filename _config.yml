@@ -2,8 +2,10 @@
 title: Minimal Text
 baseurl: "/Sree_Blog"
 desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+about: 
+Sreejith Munthikodu
+
+image: https://avatars2.githubusercontent.com/u/37257063?s=400&u=e7eb2eec76ba81bbb871afacd868998b9bac7c54&v=4
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:

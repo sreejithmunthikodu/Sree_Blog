@@ -1,6 +1,6 @@
 # Minimal Text
 
-Minimal Text is a clean and lightweight Jekyll Theme
+Minimal Text is a very clean and lightweight Jekyll Theme
 
 ## Documentation
 

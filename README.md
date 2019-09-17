@@ -25,4 +25,6 @@ paginate_path: "/:num/"
 
 __The documentation has been implemented because of user questions.__ For more documentation to be please request what you need defined.
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.jpg)  
+  
+  Add a comment for lab.

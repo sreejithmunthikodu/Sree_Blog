@@ -1,13 +1,13 @@
+--- 
+title: Machine Learning for Absolute Beginners  
+tags:  
+- Machine Learning  
+- Gradient Descent Algorithm  
+- Data Science   
+desc:  
+layout: post  
+---  
 
----
-title: Machine Learning for Absolute Beginners
-tags:
-- Machine Learning
-- Gradient Descent Algorithm
-- Data Science
-desc:
-layout: post
----
 Ever wondered how kids learn as they grow? They continuously learn from their experiences. For example, they learn to distinguish between a cat and a dog after they see many cats and dogs. Similarly, we can teach computers to learn from experiences, which are data. Traditionally, computers followed a set of instructions called programs to do a task. However, this approach is not effective in complex tasks such as image recognition and product recommendation, due to complex rules to write the function. In machine learning, we give computers input and output data and train them to figure out the best program by themselves to perform tasks without explicitly coding. This enables computers to do complex tasks which are not possible by conventional programming methods.
 
 More formally, machine learning is the process of training computers to learn from data to do tasks without explicitly programming. Training is the process by which computers learn from the data and training data are the data used for training computers. Voice recognition, image recognition, and movie recommendation are all examples of machine learning tasks. 

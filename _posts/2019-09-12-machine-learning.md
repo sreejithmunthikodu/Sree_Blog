@@ -1,5 +1,5 @@
 ---
-title: My blog on Descriptive Statistics
+title: Machine Learning for absolute beginners
 tags:
 - Machine Learning
 - Gradient Descent
